@@ -23,7 +23,7 @@ When prompted to enter credit card details, you dont need to provide any details
 
 ### 2. Share Your Email Address
 
-Share your email address with an IMBer to receive access to the IBM Cloud account.
+Share your email address with an IMBer to receive access to the IBM Cloud account, if not already done so. This should be the same you used for your IBM ID.
 
 ### 3. Accept the TechZone Invitation
 
