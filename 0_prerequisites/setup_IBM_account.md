@@ -2,11 +2,6 @@
 
 This guide walks you through the process of setting up your IBM Cloud account to access the workshop resources.
 
-## Prerequisites
-
-- A valid email address
-- Access to your email for verification and 2FA
-
 ## Setup Steps
 
 ### 1. Create an IBM ID
@@ -19,28 +14,25 @@ https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776
 
 Fill out the required information and complete the registration process.
 
-When prompted to enter credit card details, you dont need to provide any details as you will be invited to the workshop account.
+> When prompted to enter credit card details, you don't need to provide any details as you will be invited to the workshop account.
 
-### 2. Share Your Email Address
+### 2. Accept the TechZone Invitation
 
-Share your email address with an IMBer to receive access to the IBM Cloud account, if not already done so. This should be the same you used for your IBM ID.
-
-### 3. Accept the TechZone Invitation
-
-You will receive two emails from IBM TechZone:
+Once all accounts have been created, we will add you to the workshop account (during Monday, 24.11.2025)
+You will then receive two emails from IBM TechZone:
 
 1. Look for the email with the subject **"You've been invited to an IBM Cloud account"**
 2. Click on the **"Join here"** button in the email
 3. Follow the prompts to accept the invitation
 
-### 4. Set Up Two-Factor Authentication (2FA)
+### 3. Set Up Two-Factor Authentication (2FA)
 
 When logging in for the first time:
 
 1. You will be prompted to set up 2FA
 2. Follow the on-screen instructions to complete the 2FA setup
 
-### 5. Access Your IBM Cloud Account
+### 4. Access Your IBM Cloud Account
 
 Once logged in:
 
