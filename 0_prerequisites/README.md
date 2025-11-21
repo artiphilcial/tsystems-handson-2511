@@ -107,6 +107,16 @@ You're ready to proceed with the hands-on lab!
 
 If you see any `✗` marks or errors, run `uv sync` again to ensure all packages are installed.
 
+### Step 3: Test Network Connectivity (Optional but Recommended)
+
+Before the workshop, test your network connectivity to watsonx.ai endpoints:
+
+```bash
+uv run test_wx_endpoints.py
+```
+
+This will verify that your network allows access to IBM Cloud and watsonx.ai services. See [README_endpoint_test.md](README_endpoint_test.md) for detailed information about the connectivity test.
+
 ## Next Steps
 
 Once you have completed the prerequisites and verified your setup, proceed to the first lab module.
