@@ -1,2 +1,0 @@
-ibm_watsonx_ai
-ibm-cloud-sdk-core
