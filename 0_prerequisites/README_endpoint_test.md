@@ -49,26 +49,6 @@ The script verifies access to these key endpoints:
 ⚠️ **UNEXPECTED:** Endpoint responded with an unusual status code
 ❌ **TIMEOUT/CONNECTION ERROR:** Network cannot reach the endpoint
 
-## What the results mean
-
-- **All tests pass:** Your network allows access to watsonx.ai - you're ready for the workshop! ✅
-- **Partial success:** Some endpoints work, others may be blocked - check with your network admin ⚠️
-- **All tests fail:** Your network is likely blocking watsonx.ai endpoints - contact IT support ❌
-
-## Troubleshooting
-
-### Common issues:
-
-1. **Connection timeouts:** Corporate firewall may be blocking external APIs
-2. **SSL/TLS errors:** Proxy or security software interference
-3. **DNS resolution fails:** Network DNS configuration issues
-
-### Solutions:
-
-- Check with your network administrator about accessing IBM Cloud endpoints
-- Try running from a different network (mobile hotspot) to isolate network issues
-- Contact workshop organizers if you continue having connectivity issues
-
 ## Notes
 
 - This test does **not** require API keys or credentials

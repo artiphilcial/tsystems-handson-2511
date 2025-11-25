@@ -16,10 +16,10 @@ Fill out the required information and complete the registration process.
 
 > When prompted to enter credit card details, you don't need to provide any details as you will be invited to the workshop account.
 
-### 2. Accept the TechZone Invitation
+### 2. Accept the IBM Cloud Invitation
 
 Once all accounts have been created, we will add you to the workshop account (during Monday, 24.11.2025)
-You will then receive two emails from IBM TechZone:
+You will then receive two emails from IBM Cloud:
 
 1. Look for the email with the subject **"You've been invited to an IBM Cloud account"**
 2. Click on the **"Join here"** button in the email
