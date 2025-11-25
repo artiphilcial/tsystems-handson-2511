@@ -21,11 +21,8 @@ Manual execution via Workflow Dispatch
 
 ### Sets up the environment:
 Checks out the repository
-Installs dependencies with uv and installs Python 3.11:
-
-```bash
-uv sync
-```
+Installs Python 3.11
+Installs dependencies from requirements.txt (if present)
 
 ### Runs the deployment script:
 Executes python-script-watsonx-prompt-deployment.py
